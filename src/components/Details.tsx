@@ -1,8 +1,10 @@
+import { Box } from "@chakra-ui/react"
+
 const Details = () => {
     return(
-        <div>
+        <Box width={"50%"}>
             Details
-        </div>
+        </Box>
     )
 }
 
